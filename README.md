@@ -1,2 +1,3 @@
-# CICD-MavenProject
-Hello world Maven Project
+# maven-project
+
+Simple Maven Project
